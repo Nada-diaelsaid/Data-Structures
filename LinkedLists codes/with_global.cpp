@@ -106,5 +106,3 @@ int main() {
 	Print(); // List is: 1 2 
 	return 0;
 }
-
-
